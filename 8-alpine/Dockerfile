@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:8.15.1-alpine
 
 MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
 
